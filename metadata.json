@@ -1,0 +1,6 @@
+{
+  "name": "AI Resume Builder & LinkedIn Dashboard",
+  "description": "Crie currículos compatíveis com ATS, otimize com IA, exporte para PDF ou Drive e gerencie estatísticas do LinkedIn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
